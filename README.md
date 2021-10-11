@@ -1,6 +1,6 @@
 # smart_car
 smart car controlled via wifi
-### car features
+## - car features
   * You can control the CAR from anywhere via the IP Address and watch the live stream through the camera.
 
   * The car has self-driving functionality, which means that you can set it in Self-driving mode, the car will drive itself around all the house and send you updated information that extracted with the sensors.
