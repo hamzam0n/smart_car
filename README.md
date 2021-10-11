@@ -1,6 +1,20 @@
 # smart_car
 smart car controlled via wifi
-## - car features
+
+## Components 
+ * arduino uno r3 (this to program the esp32 cam)
+ * esp32 cam
+ * temperature and humidity sensor (dht11)
+ * measure distances sensor (ultrasonic)
+ * L298 motor
+ * servo motor
+ * l298 motor
+ * dc motor
+ * breadboard
+ * wires
+ * 4 piles of 3V
+ 
+## car features
   * You can control the CAR from anywhere via the IP Address and watch the live stream through the camera.
 
   * The car has self-driving functionality, which means that you can set it in Self-driving mode, the car will drive itself around all the house and send you updated information that extracted with the sensors.
